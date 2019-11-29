@@ -3,7 +3,7 @@
         // Properties
         private $dbhost = 'remotemysql.com';
         private $dbuser = '8mqwQQoY2v';
-        private $dbpass = '';
+        private $dbpass = 'EZuk8Ku01U';
         private $dbname = '8mqwQQoY2v';
 
         // Connect
